@@ -1,0 +1,2 @@
+-r requirements.txt
+https://repo.radeon.com/rocm/manylinux/rocm-rel-7.2.1/tensorflow_rocm-2.20.0.dev0%2Bselfbuilt-cp312-cp312-manylinux_2_28_x86_64.whl
